@@ -2,7 +2,7 @@
 belajar membuat lisensi dan readme aplikasi 
 RAFKA
 
-A.	<h1>Identitas Produk Perangkat Lunak<h1>
+A.	Identitas Produk Perangkat Lunak
 
 1.	Nama Aplikasi : HISANA STOCK
 
